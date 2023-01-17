@@ -1,0 +1,3 @@
+# SimpeAuth PHP
+
+SimpleAuth example
